@@ -1,0 +1,17 @@
+{
+  "name": "simple_jsdoc_docdash",
+  "version": "1.0.0",
+  "description": "simple jsdoc with docdash template",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/jsdoc -c jsdoc.conf.js README_DOC.md"
+  },
+  "author": "yongbum",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  },
+  "dependencies": {
+    "docdash": "^1.2.0"
+  }
+}
