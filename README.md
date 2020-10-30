@@ -13,12 +13,12 @@ npm start
 ```
 
 ## Description
-jsdoc3을 사용
-jsdoc.conf.js jsdoc 설정파일
+jsdoc3을 사용  
+jsdoc.conf.js jsdoc 설정파일  
 
 
 ### 참조
-jsdoc: https://jsdoc.app/index.html
-npm-jsdoc: https://www.npmjs.com/package/jsdoc
-docdash: http://clenemt.github.io/docdash/
+jsdoc: https://jsdoc.app/index.html  
+npm-jsdoc: https://www.npmjs.com/package/jsdoc  
+docdash: http://clenemt.github.io/docdash/  
 
